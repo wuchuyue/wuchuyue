@@ -1,0 +1,14 @@
+{
+    "item1": {
+      "id": 1,
+      "name": "Liquid Hand Soap",
+      "decription": "Hard-working, non-drying soap for busy hands Hand soap made with essential oils,aloe vera,olive oil,nd other thoughtfully chosen ingredientsGarden - fresh honeysuckle hand soap has a tempting sweet scent– a charming mix of flowers and fruitsThoughtfully chosen ingredients with no parabens,phthalates,or artificial colorsMrs.Meyer 's produces cruelty free hand soaps. None of our products are tested on animals",
+      "price": 10.4
+    },
+    "item2": {
+      "id": 1,
+      "name": "Maxee Hand Wash Gel",
+      "decription": "It can effectively and quickly wash hands;No washing, quick-drying, easy to use, mild hand protection;Gentle and non-irritating, does not hurt the skin, has water-holding and moisturizing function;Gel texture, you can easily check the quantity;Simple to use and clean. Perfect to use at the office, restaurant, toilets in public places,school, shopping mall etc",
+      "price": 10.4
+    }
+  }
